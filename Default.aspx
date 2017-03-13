@@ -7,6 +7,6 @@
     <title></title>
 </head>
 <body>
-    <uc:navigation id="navigation" runat="server" />
+    <h3>Anime Site</h3>
 </body>
 </html>
